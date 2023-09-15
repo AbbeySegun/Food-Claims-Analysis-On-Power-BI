@@ -1,5 +1,10 @@
 # Food-Claims-Analysis-On-Power-BI
-Vivendo is a fast food chain in Brazil with over 200 outlets. The legal team wants to improve how long it takes to reply to customers and close claims.
+Vivendo is a fast food chain in Brazil with over 200 outlets. The legal team 
+Customers often claim compensation from the company for food poisoning. Therefore, the legal team, which has offices in four locations and is responsible for processing these claims, wants to improve how long it takes to reply to customers and close claims.
+The head of the legal department wants me to report how each location differs in the time it takes to close claims.
+
+
+
 
 ## Data Exploratory Analysis
 
@@ -20,6 +25,21 @@ Vivendo is a fast food chain in Brazil with over 200 outlets. The legal team wan
 **Cause** The column contains vegetable, meat, unknown and VEGETABLES. 16 values were found to be VEGETABLES which require Trimming and changing of case. The inconsistent values were replaced with vegetable, as given in the description.
 
 
-
-
+### Analysis on number of claims in each location
+![visualization that shows the number of claims in each location](<img width="498" alt="task 2" src="https://github.com/AbbeySegun/Food-Claims-Analysis-On-Power-BI/assets/105546483/aeb79568-dda3-44e5-8483-8bea25570db5">
+)
  The visuals above revealed that RECIFE has the highest number of claims while SAO LUIS came second. However, the category are not balanced because fewer claims came from NATAL and FORTALEZA while other location has higher claims.
+
+### Distribution of time to close for all claims
+![distribution of time to close for all claims](<img width="558" alt="task 3" src="https://github.com/AbbeySegun/Food-Claims-Analysis-On-Power-BI/assets/105546483/baa413b1-9f94-4ce9-8185-0f0cc81d11ff">
+)
+From the claim chart distribution with the time taken, it can be deduced that most of the values fail between 100 and 200 days. This implies that the most number of claims falls within the range of 100 to 200 days. However, there are outliers that are above 200 and those that fail below 100.
+
+The distribution of the number times to close is symmetric.
+
+### Relationship between time to close and location
+![relationship between time to close and location](<img width="547" alt="task 4" src="https://github.com/AbbeySegun/Food-Claims-Analysis-On-Power-BI/assets/105546483/f2d9490a-ff80-4d02-bf51-16d34b17bea1">
+)
+Checking the relationship between Time taken to Close claims and location, the above revealed that the claims in each location take about 184 to 188 days to close(on average). Due to the higher number of claims closing days in SAO LUIS, most of the claims there take an average of 188 days to close when compared to others.
+
+The legal team should focus more on reducing claim closing time in those higher locations.
