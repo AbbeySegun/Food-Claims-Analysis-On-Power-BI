@@ -26,7 +26,7 @@ The head of the legal department wants me to report how each location differs in
 
 
 ### Analysis of number of claims in each location
-![visualization that shows the number of claims in each location](task 2.PNG)
+![visualization that shows the number of claims in each location](https://github.com/AbbeySegun/Food-Claims-Analysis-On-Power-BI/blob/main/task%202.PNG))
  The visuals above revealed that RECIFE has the highest number of claims while SAO LUIS came second. However, the category are not balanced because fewer claims came from NATAL and FORTALEZA while other locations have higher claims.
 
 ### Distribution of time to close for all claims
