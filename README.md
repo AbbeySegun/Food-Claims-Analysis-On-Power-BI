@@ -26,11 +26,11 @@ The head of the legal department wants me to report how each location differs in
 
 
 ### Analysis of number of claims in each location
-![visualization that shows the number of claims in each location](https://github.com/AbbeySegun/Food-Claims-Analysis-On-Power-BI/blob/main/task%202.PNG))
+![visualization that shows the number of claims in each location](https://github.com/AbbeySegun/Food-Claims-Analysis-On-Power-BI/blob/main/task%202.PNG)
  The visuals above revealed that RECIFE has the highest number of claims while SAO LUIS came second. However, the category are not balanced because fewer claims came from NATAL and FORTALEZA while other locations have higher claims.
 
 ### Distribution of time to close for all claims
-![distribution of time to close for all claims](<img width="558" alt="task 3" src="https://github.com/AbbeySegun/Food-Claims-Analysis-On-Power-BI/assets/105546483/baa413b1-9f94-4ce9-8185-0f0cc81d11ff">)
+![distribution of time to close for all claims](https://github.com/AbbeySegun/Food-Claims-Analysis-On-Power-BI/blob/main/task%203.PNG)
 From the claim chart distribution with the time taken, it can be deduced that most of the values fail between 100 and 200 days. This implies that the most number of claims falls within the range of 100 to 200 days. However, there are outliers that are above 200 and those that fail below 100.
 
 The distribution of the number of times to close is symmetric.
