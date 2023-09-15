@@ -1,7 +1,7 @@
 # Food-Claims-Analysis-On-Power-BI
 Vivendo is a fast food chain in Brazil with over 200 outlets. The legal team wants to improve how long it takes to reply to customers and close claims.
 
-*Data Exploratory Analysis*
+## Data Exploratory Analysis
 
 **Claim_id:** There are 2000 unique values that match the description. There are no missing values. Therefore, no changes was made to this column.
  
@@ -18,3 +18,8 @@ Vivendo is a fast food chain in Brazil with over 200 outlets. The legal team wan
 **Linked_cases** This column contains TRUE or FALSE with 26 missing values. The missing value was replaced with FALSE, as given in the description.
 
 **Cause** The column contains vegetable, meat, unknown and VEGETABLES. 16 values were found to be VEGETABLES which require Trimming and changing of case. The inconsistent values were replaced with vegetable, as given in the description.
+
+
+
+
+ The visuals above revealed that RECIFE has the highest number of claims while SAO LUIS came second. However, the category are not balanced because fewer claims came from NATAL and FORTALEZA while other location has higher claims.
