@@ -36,7 +36,7 @@ From the claim chart distribution with the time taken, it can be deduced that mo
 The distribution of the number of times to close is symmetric.
 
 ### Relationship between time to close and location
-![relationship between time to close and location](<img width="547" alt="task 4" src="https://github.com/AbbeySegun/Food-Claims-Analysis-On-Power-BI/assets/105546483/f2d9490a-ff80-4d02-bf51-16d34b17bea1">)
+![relationship between time to close and location](https://github.com/AbbeySegun/Food-Claims-Analysis-On-Power-BI/blob/main/task%204.PNG)
 Checking the relationship between Time taken to Close claims and location, the above revealed that the claims in each location take about 184 to 188 days to close(on average). Due to the higher number of claims closing days in SAO LUIS, most of the claims there take an average of 188 days to close when compared to others.
 
 The legal team should focus more on reducing claim closing time in those higher locations.
